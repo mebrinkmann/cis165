@@ -1,0 +1,8 @@
+Name: Meghan Brinkmann
+High School: East Stroudsburg High School South in East Stroudsburg, PA
+Major: Web and Mobile Development
+
+
+--------------------------------
+Process exited after 0.02521 seconds with return value 0
+Press any key to continue . . .

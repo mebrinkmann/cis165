@@ -1,0 +1,23 @@
+Please input the Family ID: 51
+Please input the Size of the Family: 4
+Please input the Annual Income: 28000.00
+Pleae input the Total Debt: 4800.00
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Family Budget Assistance Center
+             November 2023
+       Telephone:  (800) 555-1234
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Identification Number             51
+Family Size                        4
+Annual Income                  28000.00
+Total Debt                      4800.00
+Expected Living Expenses       18801.20
+Monthly Payment                  200.00
+Savings                         1856.00
+Service Fee                      280.00
+--------------------------------
+Process exited after 11.69 seconds with return value 0
+Press any key to continue . . .

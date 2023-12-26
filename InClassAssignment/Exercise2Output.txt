@@ -1,0 +1,13 @@
+Enter grade 1: 80
+Enter grade 2: 90
+Enter grade 3: 100
+                The average grade is 90
+
+GRADE   AVERAGE  DIFFERENCE FROM AVERAGE
+   80        90                      -10
+   90        90                        0
+  100        90                       10
+
+--------------------------------
+Process exited after 7.422 seconds with return value 0
+Press any key to continue . . .

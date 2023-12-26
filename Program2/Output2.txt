@@ -1,0 +1,18 @@
+Enter number of adult seats sold: 200
+Enter number of child seats sold: 500
+
+
+                          ************************
+                          *  Movie Seats Income  *
+                          ************************
+
+                                         Gross        Amount Paid
+Seat Type     Cost/Seat     # Sold     Revenue     to Distributor      Net Profit
+---------     ---------     ------     -------     --------------      ----------
+
+    Adult         $ 10        200        2000                400            1600
+    Child         $  6        500        3000                600            2400
+
+--------------------------------
+Process exited after 9.846 seconds with return value 0
+Press any key to continue . . .
